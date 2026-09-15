@@ -51,7 +51,7 @@ The **Hospital Overview Dashboard** provides a high-level view of overall hospit
 
 ### Tableau Dashboard
 
-![Hospital Overview](Hospital%20Overview.png)
+![Hospital Overview](dashboard/Hospital%20Overview.png)
 
 ---
 
@@ -74,7 +74,7 @@ The **Patient Flow Dashboard** focuses on patient movement and workflow througho
 
 ### Tableau Dashboard
 
-![Patient Flow](Patient%20Flow.png)
+![Patient Flow](dashboard/Patient%20Flow.png)
 
 ---
 
